@@ -52,7 +52,7 @@ I work with clients across different time zones and provide clean, production-re
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaheer48&show_icons=true&theme=default" />
 </p>
 
 ---
@@ -70,5 +70,5 @@ I work with clients across different time zones and provide clean, production-re
 
 ## 📬 Contact
 
-GitHub: https://github.com/YOUR_USERNAME  
+GitHub: https://github.com/zaheer48  
 Open for global collaboration opportunities.
